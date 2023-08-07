@@ -1,0 +1,8 @@
+{
+	"maintenance": false,
+	"build": 13200,
+	"build_codename": "v1.3.2",
+	"update_info": "FIXED:\n- LookMovie not working\n\nNOTE: Updated the version now! My bad lol",
+	"update_url": "https://github.com/rhenwinch/Flixclusive/releases/latest/download/flixclusive-release.apk",
+	"tmdb_api_key": "8d6d91941230817f7807d643736e8a49"
+}
